@@ -4,5 +4,6 @@
 
 ![file](https://user-images.githubusercontent.com/67305258/166136039-16e5d587-f592-4521-a00d-de425cd48c11.jpeg)  
 Jupyter Notebook представляет собой решение Kaggle задачи: https://www.kaggle.com/competitions/journey-springfield  
+Файл датасета: https://www.kaggle.com/competitions/journey-springfield/data  
+Перед выполнением кода у себя на компьютере разархивируйте файл journey-springfield.zip  
 Полученное решение позволило добиться Score в 0.99256  
-Перед выполнением кода у себя на компьютере разархивируйте файл dataset.rar
